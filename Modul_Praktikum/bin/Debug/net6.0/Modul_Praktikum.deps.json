@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Modul_Praktikum/1.0.0": {
+        "runtime": {
+          "Modul_Praktikum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modul_Praktikum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

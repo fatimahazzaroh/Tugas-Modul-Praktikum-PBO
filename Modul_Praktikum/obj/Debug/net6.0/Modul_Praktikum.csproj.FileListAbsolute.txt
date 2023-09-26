@@ -1,0 +1,14 @@
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Modul_Praktikum\Modul_Praktikum\bin\Debug\net6.0\Modul_Praktikum.exe
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Modul_Praktikum\Modul_Praktikum\bin\Debug\net6.0\Modul_Praktikum.deps.json
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Modul_Praktikum\Modul_Praktikum\bin\Debug\net6.0\Modul_Praktikum.runtimeconfig.json
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Modul_Praktikum\Modul_Praktikum\bin\Debug\net6.0\Modul_Praktikum.dll
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Modul_Praktikum\Modul_Praktikum\bin\Debug\net6.0\Modul_Praktikum.pdb
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Modul_Praktikum\Modul_Praktikum\obj\Debug\net6.0\Modul_Praktikum.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Modul_Praktikum\Modul_Praktikum\obj\Debug\net6.0\Modul_Praktikum.AssemblyInfoInputs.cache
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Modul_Praktikum\Modul_Praktikum\obj\Debug\net6.0\Modul_Praktikum.AssemblyInfo.cs
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Modul_Praktikum\Modul_Praktikum\obj\Debug\net6.0\Modul_Praktikum.csproj.CoreCompileInputs.cache
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Modul_Praktikum\Modul_Praktikum\obj\Debug\net6.0\Modul_Praktikum.dll
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Modul_Praktikum\Modul_Praktikum\obj\Debug\net6.0\refint\Modul_Praktikum.dll
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Modul_Praktikum\Modul_Praktikum\obj\Debug\net6.0\Modul_Praktikum.pdb
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Modul_Praktikum\Modul_Praktikum\obj\Debug\net6.0\Modul_Praktikum.genruntimeconfig.cache
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Modul_Praktikum\Modul_Praktikum\obj\Debug\net6.0\ref\Modul_Praktikum.dll
